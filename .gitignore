@@ -1,0 +1,9 @@
+*.png
+*.wav
+data/
+*.txt
+*.pdf
+*.swp
+for_evaluations/
+.idea/
+__pycache__/
