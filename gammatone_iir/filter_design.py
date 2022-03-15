@@ -1,3 +1,12 @@
+"""
+    Implemented by: NGUYEN Quoc Huy
+    The IIR Wavelet gammatone filterbank
+    This implementation is an IIR version of the Wavelet gammatone filterbank described in [1].
+
+    References:
+    [1] Unoki, M., Akagi, M. (1999). A method of signal extraction from noisy signal based on auditory scene analysis. 
+    Speech Communication, 27(3-4), 261-279. https://doi.org/10.1016/S0167-6393(98)00077-6
+"""
 import cmath
 import math
 

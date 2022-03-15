@@ -1,6 +1,10 @@
 """
-@author: Ryandhimas Zezario
-ryandhimas@citi.sinica.edu.tw
+Feature extraction:
+    author: NGUYEN Quoc Huy
+    email: hqnguyen@jaist.ac.jp
+MOSA-Net:
+    @author: Ryandhimas Zezario
+    ryandhimas@citi.sinica.edu.tw
 """
 
 import argparse
