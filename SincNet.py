@@ -3,15 +3,8 @@
 import tensorflow as tf
 import numpy as np
 import math
-import os
-from keras.models import Model
-from keras.layers import (
-    Input, Activation, Add, BatchNormalization, LeakyReLU, AveragePooling1D, 
-    concatenate, Lambda, UpSampling1D, Subtract, Reshape)
-from keras.optimizers import Adam
-from keras.layers.convolutional import Conv1D
-from keras import backend as K
-import pdb
+from tensorflow.keras.layers import Lambda
+
 
 class Sinc_Conv_Layer():
     def __init__(self, input_size, N_filt, Filt_dim, fs, NAME):

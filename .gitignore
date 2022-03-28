@@ -1,0 +1,10 @@
+*.png
+*.wav
+data/
+*.txt
+*.pdf
+*.swp
+for_evaluations/
+.idea/
+__pycache__/
+PreTrained_VoiceMOSChallenge/
